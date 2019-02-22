@@ -25,5 +25,5 @@ repositories {
 }
 
 dependencies {
-    api('com.fota.android:option:0.1.0@aar') { transitive = true; changing = true }
+    api('com.fota.android:option:0.2.2@aar') { transitive = true; changing = true }
 }
